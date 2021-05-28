@@ -48,6 +48,8 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+./Posts.Api/appsettings.*
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
